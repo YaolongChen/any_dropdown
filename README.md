@@ -68,14 +68,14 @@ late final _provider = AnyDropdownOptionProvider<String>(
 
 Implement `AnyDropdownTriggerDelegate<T>` and `AnyDropdownMenuDelegate<T, O>`
 (or extend the default delegates) to build your own trigger and menu widgets.
-See the [example app](https://github.com/YaolongChen/any_dropdown/tree/main/example)
+See the [example app](https://github.com/YellowCoding/any_dropdown/tree/main/example)
 for a chip-style trigger and a Material-styled menu with ink ripple and checkboxes.
 
 ## Additional information
 
-- [Example app](https://github.com/YaolongChen/any_dropdown/tree/main/example) —
+- [Example app](https://github.com/YellowCoding/any_dropdown/tree/main/example) —
   run the example to see all 6 usage scenarios.
-- [GitHub repository](https://github.com/YaolongChen/any_dropdown) —
+- [GitHub repository](https://github.com/YellowCoding/any_dropdown) —
   report issues or contribute.
 - [pub.dev package](https://pub.dev/packages/any_dropdown) —
   latest version and API reference.
